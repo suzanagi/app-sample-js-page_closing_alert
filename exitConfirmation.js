@@ -1,0 +1,1 @@
+window.addEventListener('beforeunload', function(e) {e.returnValue=true;}, false);
